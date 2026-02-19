@@ -1,0 +1,48 @@
+	Interview questions 
+
+Kotlin based questions:
+•	Difference between val vs var vs const?
+•	Advantages of Kotlin over Java
+•	How do you declare nullable types in Kotlin?
+•	What are different types of constructors in Kotlin?   
+•	What are companion objects?                             
+•	What is the alternate keyword used instead of switch keyword in Kotlin?
+•	What are access modifiers in Kotlin?
+
+Coroutines:
+•	What are coroutines?
+•	What is suspend function?
+•	What is structured concurrency in Kotlin 
+•	Difference between launch and async in Coroutines 
+•	Difference between CoroutineScope and SupervisorScope 
+•	Difference types of scopes in coroutines
+•	What are Dispatchers in coroutines and types
+•	How do you cancel a coroutine? Cooperative cancellation (isActive, ensureActive, yield) and finally blocks.
+
+•	Advantages of using data class
+•	How do you declare Singleton in Koltin
+•	Difference between lateint and lazy 
+•	What happens when you try to use lateinit variable without initializing it?
+•	Different types of scope functions in Kotlin
+•	What are sealed classes?
+Explain usecase when you would use sealed class 
+•	Difference between Sealed class vs enum 
+•	What are higher order functions?
+•	What are extension functions..explain with example 
+•	How do you declare singleton in Kotlin?
+•	What are structural jump expression in Kotlin?
+•	What are inline functions?
+•	Difference between inline, noinline and crossinline 
+•	What are delegates in Kotlin 
+•	What are generics in Kotlin
+•	What is the base class in Kotlin
+•	Difference between interfaces, abstract classes, and open classes in Kotlin.
+•	Difference between == and === in Kotlin.
+•	Explain variance: out (covariance) vs in (contravariance). Show a practical API example.
+•	What is reified type parameter? Why must the function be inline? Typical uses (e.g., generic mapper, startActivity<T>()).
+•	Star-projections (*)—when and why?
+•	How does delegation work (by)—class delegation and delegated properties?
+•	What are context receivers? Provide a concise example and when they improve API ergonomics (DSLs, dependency scoping).
+
+
+
