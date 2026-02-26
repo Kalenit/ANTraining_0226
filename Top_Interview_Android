@@ -46,6 +46,38 @@ Coroutines:
 
 =================================================================================================================================
 
+Android Interview Questions:
+
+•	Interface vs abstract class
+•	Explain SOLID principles in relation to Android with examples 
+•	Explain some design patterns like Builder, Adapter, Singleton, Factory, Observable
+•	Explain activity lifecycle
+•	Difference between Activitiy and Fragments 
+•	Explain fragments lifecycle
+•	Different types of Intents 
+•	How recyclerview works 
+•	View binding vs data binding
+
+Advanced 
+•	Explain MVVM architecture
+•	Explain role of Viewmodel in MVVM 
+•	How Viewmodel survives configuration changes..How it works internally?
+•	How viewmodel updates UI 
+•	ViewModel vs AndroidViewModel
+•	What is clean code architecture 
+•	What do you include in domain and data layer 
+•	How layers communicate in clean code architecture 
+•	What is usecase in clean code architecture 
+•	Explain difference between MVVM vs MVI
+•	What is dependency injection 
+•	Advantages of using dependency injection 
+•	Difference between Dagger and Hilt 
+•	Difference between Hilt and Koin
+•	What are different annotations used in Hilt 
+•	Difference between @Provides vs @Binds
+
+=================================================================================================================================
+
 Compose Interview Questions:
 •	What are the advantages of using Jetpack Compose over the traditional View system?
 •	What is a composable function
