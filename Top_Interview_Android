@@ -45,3 +45,25 @@ Coroutines:
 
 
 
+
+Compose Interview Questions:
+•	What are the advantages of using Jetpack Compose over the traditional View system?
+•	How does state management work in Jetpack Compose?
+•	What is the role of the Modifier in Jetpack Compose?
+•	Different types of states in compose 
+•	remember vs rememberSavable 
+•	State hoisting in Compose
+•	Explain the concept of side effects in Jetpack Compose.
+•	Types of Side-effect in 
+•	LaunchedEffect vs Disposable effect 	
+•	Explain the concept of recomposition in Jetpack Compose.
+•	How to avoid recomposition
+•	What is the role of CompositionLocal in Jetpack Compose?
+•	What are the best practices for performance optimization in Jetpack Compose?
+•	Lifecycle of Compose
+ 
+
+
+
+
+
