@@ -48,6 +48,7 @@ Coroutines:
 
 Compose Interview Questions:
 •	What are the advantages of using Jetpack Compose over the traditional View system?
+•	What is a composable function
 •	How does state management work in Jetpack Compose?
 •	What is the role of the Modifier in Jetpack Compose?
 •	Different types of states in compose 
@@ -61,6 +62,7 @@ Compose Interview Questions:
 •	What is the role of CompositionLocal in Jetpack Compose?
 •	What are the best practices for performance optimization in Jetpack Compose?
 •	Lifecycle of Compose
+
  
 
 
