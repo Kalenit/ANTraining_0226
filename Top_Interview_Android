@@ -58,6 +58,22 @@ Android Interview Questions:
 •	How recyclerview works 
 •	View binding vs data binding
 
+•	How to switch dispatchers in coroutines 
+•	Stateflow vs Sharedflow
+•	Cold flow vs hot flow 
+•	How to convert Stateflow to shared flow
+•	Usecase where you can use Stateflow
+•	Usecase where you can use Sharedflow
+•	Channels vs Flows
+•	Coroutines vs Threads 
+•	What are the ways to store data locally 
+•	What are main components of Room database 
+•	How to perform Room database migration 
+•	How migration works in Room 
+•	How to test clean code architecture layers 
+•	Testing tools to use 
+•	What are different components in compose navigation 
+
 Advanced 
 •	Explain MVVM architecture
 •	Explain role of Viewmodel in MVVM 
@@ -75,6 +91,9 @@ Advanced
 •	Difference between Hilt and Koin
 •	What are different annotations used in Hilt 
 •	Difference between @Provides vs @Binds
+•	MVI vs MVVM 
+•	Explain clean code architecture with use case
+•	What goes inside domain and data layer in clean code architecture 
 
 =================================================================================================================================
 
